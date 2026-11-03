@@ -21,7 +21,7 @@
 
 ## 👋 About me
 
-I'm a **senior React and full-stack developer** with **7+ years** of building business software, from an empty repo to a live, scaled product, and leading the teams that build it.
+Hi, I'm **Shivanjali Desai**, a **senior React and full-stack developer** based in **Pune, India**, with **7+ years** of building business software, from an empty repo to a live, scaled product, and leading the teams that build it.
 
 - ⚛️ **React first:** fast, polished, accessible UIs with **React**, **Next.js**, **TypeScript** and **Redux Toolkit**
 - ⚙️ **Full-stack:** secure APIs and databases with **Node.js**, **NestJS**, **Express**, **Flask**, **SQL Server**, **PostgreSQL** and **MongoDB**
@@ -322,10 +322,7 @@ I'm open to **Senior React Developer**, **Senior Full-Stack Developer** and **Fr
 <div align="center">
 
 <a href="https://github.com/shivanjali24-03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<!-- Add your links here, then remove these comment markers:
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
--->
+<a href="https://www.linkedin.com/in/shivanjali-desai-9521aa127/"><img src="https://img.shields.io/badge/LinkedIn-Shivanjali%20Desai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/><br/>
 
