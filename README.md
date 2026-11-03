@@ -24,7 +24,8 @@ I'm a **full-stack developer**. I build web apps from the screen the user sees a
 - ⚙️ **Backend:** I write **REST APIs** with **Node.js** and **Express**, and store data in **MongoDB**.
 - 🐍 **Python:** I use Python for logic, automation and computer vision with **OpenCV** and **MediaPipe**.
 - 🤖 **AI:** I connect apps to AI models, such as **Google Gemini**, to make them smarter.
-- 🌱 **Right now:** I'm making my projects production-ready with live demos, tests and clear docs.
+- 🏛️ **Architecture:** I think in clean layers (UI → API → services → data), REST design and role-based access.
+- 🌱 **Right now:** I'm learning Next.js, TypeScript and AI agents, and making my projects production-ready with live demos, tests and clear docs.
 
 > **What I bring to a team:** I can take a feature from idea to working product on my own: the UI, the API, the database and the AI part. I write code that other people can read.
 
@@ -73,31 +74,112 @@ A game you play with **your hand in front of the webcam**. No keyboard and no mo
 
 <div align="center">
 
-| Area | Tools |
-|:--|:--|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,vite&theme=dark" height="40"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" height="40"/> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40"/> |
-| **AI & Vision** | <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" height="28"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" height="40"/> |
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,redux,nodejs,express,python,fastapi,django,mongodb,postgres,mysql,redis,docker,githubactions,vercel,git,postman,figma&perline=11&theme=dark" alt="Tech stack"/>
 
 </div>
 
-## 🧩 How I build a full-stack app
+> ✅ **Built with**: used in my public projects &nbsp;·&nbsp; 🟣 **Comfortable with**: used in practice and learning projects &nbsp;·&nbsp; 🔭 **Exploring now**: currently learning
+
+### ⚛️ React ecosystem
+
+| | |
+|:--|:--|
+| ✅ **Built with** | React 19 (hooks, components) · Vite · React Router 7 · Tailwind CSS 4 · Bootstrap 5 · Axios · Lucide icons |
+| 🟣 **Comfortable with** | Next.js (App Router) · TypeScript · Redux Toolkit · Zustand · TanStack Query · React Hook Form + Zod · shadcn/ui · Framer Motion |
+| 🔭 **Exploring now** | React Server Components · Server Actions · React Compiler |
+
+### 🟢 Node.js ecosystem
+
+| | |
+|:--|:--|
+| ✅ **Built with** | Node.js · Express 5 · REST APIs · Mongoose · Multer (file uploads) · dotenv config |
+| 🟣 **Comfortable with** | JWT auth · role-based access (RBAC) · Socket.IO (real-time) · Prisma ORM · input validation with Zod |
+| 🔭 **Exploring now** | NestJS · tRPC · Bun · queues with BullMQ |
+
+### 🐍 Python ecosystem
+
+| | |
+|:--|:--|
+| ✅ **Built with** | Python 3 · OpenCV · MediaPipe · NumPy |
+| 🟣 **Comfortable with** | FastAPI · Flask · Django · Pydantic · pandas |
+| 🔭 **Exploring now** | LangChain · building AI agents |
+
+### 🗄️ Data, 🤖 AI and ☁️ DevOps
+
+| Area | Tools |
+|:--|:--|
+| **Databases** | ✅ MongoDB · 🟣 MySQL · PostgreSQL · Redis (caching) |
+| **AI** | ✅ Google Gemini API, structured JSON output · 🟣 prompt engineering · OpenAI / Claude APIs · 🔭 RAG with vector search |
+| **Testing** | 🟣 Jest · React Testing Library · Postman API testing · 🔭 Vitest · Playwright |
+| **DevOps** | ✅ Git & GitHub · GitHub Actions (this profile updates itself daily) · 🟣 Docker · Vercel · Render |
+
+## 🏛️ Architecture & design patterns I use
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Frontend patterns**
+- **Component-based UI**: small, reusable pieces (`Sidebar`, `Header`, `UserNav`)
+- **Pages + components** folder structure
+- **Custom hooks** to keep logic out of the UI
+- **Container / presentational** split
+- **Client-side routing** for fast, app-like navigation
+- **Mobile-first, responsive** design
+
+</td>
+<td width="50%" valign="top">
+
+**Backend patterns**
+- **MVC / layered architecture**: routes → controllers → services → models
+- **RESTful API design** with proper status codes and clean JSON errors
+- **Middleware** for auth, uploads, validation and error handling
+- **Role-based access control** (admin, user, and so on)
+- **Config in environment variables**, never hard-coded secrets
+- **Monolith first**, split into services only when needed
+
+</td>
+</tr>
+</table>
+
+```mermaid
+flowchart TB
+    subgraph Client["🖥️ Client: React"]
+        P[Pages] --> C[Reusable components]
+        C --> H[Custom hooks + state]
+    end
+    subgraph Server["⚙️ Server: Node.js / Express"]
+        R[Routes] --> M[Middleware<br/>auth · validation · errors]
+        M --> CT[Controllers]
+        CT --> S[Services<br/>business logic]
+        S --> MD[Models / ORM]
+    end
+    H -- "HTTPS · REST / JSON" --> R
+    MD --> DB[(MongoDB / SQL)]
+    S --> AI{{AI APIs<br/>Gemini · LLMs}}
+    S --> PY[Python services<br/>vision · data]
+```
+
+## 🔄 How I take a product from idea to launch
 
 ```mermaid
 flowchart LR
-    U([👤 User]) --> FE[React + Tailwind<br/>UI]
-    FE -- REST / JSON --> API[Node.js + Express<br/>API]
-    API --> DB[(MongoDB)]
-    API --> AI{{Gemini AI}}
-    API --> PY[Python<br/>scripts & CV]
-    style FE fill:#1e1b4b,stroke:#a855f7,color:#fff
-    style API fill:#1e1b4b,stroke:#00b8d4,color:#fff
-    style DB fill:#1e1b4b,stroke:#22c55e,color:#fff
-    style AI fill:#1e1b4b,stroke:#ff2bd6,color:#fff
-    style PY fill:#1e1b4b,stroke:#facc15,color:#fff
+    A[💡 Understand<br/>the problem] --> B[✏️ Design<br/>wireframes · Figma]
+    B --> C[📋 Plan<br/>user stories · tasks]
+    C --> D[💻 Build<br/>API + UI in small steps]
+    D --> E[🧪 Test<br/>manual + automated]
+    E --> F[🚀 Ship<br/>CI/CD · deploy]
+    F --> G[📈 Measure<br/>feedback · fix · improve]
+    G -. next iteration .-> A
 ```
+
+1. **Understand:** Who is the user, what's their problem, and what does success look like?
+2. **Design:** Sketch the screens and the data model before writing code.
+3. **Plan:** Break the work into small user stories and work in **Agile** sprints.
+4. **Build:** Start with the API, then the UI. Make small commits with clear messages, and use branches and pull requests.
+5. **Test:** Test every endpoint in Postman, add unit tests for the core logic, and check the UI on mobile.
+6. **Ship:** Deploy early (Vercel / Render) and let GitHub Actions automate the routine steps.
+7. **Improve:** Listen to feedback, fix what hurts most first, and repeat.
 
 ## 📊 My GitHub in graphs
 
