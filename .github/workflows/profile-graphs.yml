@@ -30,7 +30,9 @@ jobs:
 
       - name: Commit graphs
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # neutral identity: not linked to any GitHub account, so it never shows
+          # in "Built by"/contributors and never inflates the contribution graph
+          git config user.name "profile-graphs"
+          git config user.email "profile-graphs@noreply.invalid"
           git add -A profile-3d-contrib assets/activity.svg
           git diff --cached --quiet || (git commit -m "Update profile graphs" && git pull --rebase && git push)
