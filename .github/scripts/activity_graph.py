@@ -91,8 +91,11 @@ def esc(s):
 
 
 def render(days):
-    total, active, best, streak, busiest = stats(days)
     months = monthly(days)
+    # keep the cards and the bars on exactly the same 12-month window
+    first_y, first_m = next(iter(months))
+    days = [(d, c) for d, c in days if (d.year, d.month) >= (first_y, first_m)]
+    total, active, best, streak, busiest = stats(days)
     W, H = 1200, 420
     cx0, cy0, cw, ch = 70, 150, 1080, 200  # chart box
     vals = list(months.values())
