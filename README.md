@@ -244,7 +244,7 @@ A game you play with **your hand in front of the webcam**. No keyboard and no mo
 <summary><b>📈 More activity</b></summary>
 <br/>
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivanjali24-03&bg_color=0b0726&color=e9d5ff&line=a855f7&point=00b8d4&area=true&area_color=7c3aed&hide_border=true&custom_title=Contributions%20over%20time" alt="Activity graph"/>
+<img width="100%" src="./assets/activity.svg" alt="Monthly contributions and activity stats"/>
 </div>
 </details>
 

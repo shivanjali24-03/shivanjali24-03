@@ -23,9 +23,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit graph
+      - name: Generate activity graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/activity_graph.py "${{ github.repository_owner }}" assets/activity.svg
+
+      - name: Commit graphs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A profile-3d-contrib
-          git diff --cached --quiet || (git commit -m "Update 3D contribution graph" && git push)
+          git add -A profile-3d-contrib assets/activity.svg
+          git diff --cached --quiet || (git commit -m "Update profile graphs" && git pull --rebase && git push)
