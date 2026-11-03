@@ -240,7 +240,7 @@ A game you play with **your hand in front of the webcam**. No keyboard and no mo
 
 </div>
 
-<details>
+<details open>
 <summary><b>📈 More activity</b></summary>
 <br/>
 <div align="center">
