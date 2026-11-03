@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Full-Stack Developer: React, Node.js, Python, Databases"/>
+<img src="./assets/hero.svg" width="100%" alt="Senior Full-Stack & AI Engineer, 7+ years: Next.js, NestJS, Flask, FastAPI, multi-LLM, RAG, PostgreSQL"/>
 
 <a href="https://github.com/shivanjali24-03">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=680&lines=I+build+full-stack+web+apps+end+to+end;React+on+the+front.+Node.js+on+the+back.;MongoDB+for+data.+Python+for+the+smart+parts.;Now+building+AI-powered+tools+with+Gemini" alt="What I do"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=7%2B+years+shipping+products+end+to+end;Next.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Multi-LLM+apps%3A+OpenAI+%C2%B7+Claude+%C2%B7+Gemini+%C2%B7+Llama;RAG+pipelines+%C2%B7+AI+agents+%C2%B7+clean+architecture;From+idea+to+production+%E2%80%94+and+scale" alt="What I do"/>
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Open%20to-Full--Stack%20Roles%20%26%20Freelance-22c55e?style=for-the-badge&labelColor=0b0726" alt="Open to full-stack roles and freelance work"/>
+  <img src="https://img.shields.io/badge/Experience-7%2B%20years-a855f7?style=for-the-badge&labelColor=0b0726" alt="7+ years experience"/>
+  <img src="https://img.shields.io/badge/Open%20to-Senior%20Full--Stack%20%2F%20AI%20Roles%20%26%20Freelance-22c55e?style=for-the-badge&labelColor=0b0726" alt="Open to senior full-stack / AI roles and freelance"/>
 </p>
 <p>
   <img src="https://komarev.com/ghpvc/?username=shivanjali24-03&style=flat-square&color=7c3aed&label=profile+views" alt="Profile views"/>
@@ -18,16 +19,15 @@
 
 ## 👋 About me
 
-I'm a **full-stack developer**. I build web apps from the screen the user sees all the way down to the database.
+I'm a **senior full-stack and AI engineer** with **7+ years** of building web products from the first idea to production, and then scaling them.
 
-- 🎨 **Frontend:** I build clean, responsive interfaces with **React**, **Tailwind** and **Bootstrap**.
-- ⚙️ **Backend:** I write **REST APIs** with **Node.js** and **Express**, and store data in **MongoDB**.
-- 🐍 **Python:** I use Python for logic, automation and computer vision with **OpenCV** and **MediaPipe**.
-- 🤖 **AI:** I connect apps to AI models, such as **Google Gemini**, to make them smarter.
-- 🏛️ **Architecture:** I think in clean layers (UI → API → services → data), REST design and role-based access.
-- 🌱 **Right now:** I'm learning Next.js, TypeScript and AI agents, and making my projects production-ready with live demos, tests and clear docs.
+- 🎨 **Frontend:** I build fast, polished interfaces with **Next.js**, **React 19**, **TypeScript**, **Tailwind** and **Framer Motion**, with design systems, accessibility and Core Web Vitals in mind.
+- ⚙️ **Backend:** I design APIs and services with **NestJS**, **Express**, **Flask** and **FastAPI**, both REST and GraphQL, on **PostgreSQL**, **MongoDB** and **Redis**.
+- 🤖 **AI:** I build **multi-LLM** products with **OpenAI, Claude, Gemini and open-source Llama models**. That covers RAG over company data, AI agents with tool calling, prompt design, model routing, and evaluating output quality.
+- 🏛️ **Architecture:** clean, layered and modular systems, from microservices and event-driven design to caching, auth/RBAC, and cloud deployment with Docker and CI/CD.
+- 🧭 **Product:** I think like a product owner. I care about the user problem, the metric we're moving, and shipping in small, safe steps.
 
-> **What I bring to a team:** I can take a feature from idea to working product on my own: the UI, the API, the database and the AI part. I write code that other people can read.
+> **What I bring to a team:** I own features end to end (UI, API, data and AI), make sound architecture calls, mentor other developers, and work directly with product and design to ship things users love.
 
 ## 🚀 Featured projects
 
@@ -74,44 +74,57 @@ A game you play with **your hand in front of the webcam**. No keyboard and no mo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,redux,nodejs,express,python,fastapi,django,mongodb,postgres,mysql,redis,docker,githubactions,vercel,git,postman,figma&perline=11&theme=dark" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vite,redux,nodejs,nestjs,express,graphql,python,fastapi,flask,django,postgres,mongodb,redis,prisma,docker,aws,githubactions,vercel,jest,figma&perline=12&theme=dark" alt="Tech stack"/>
 
 </div>
 
-> ✅ **Built with**: used in my public projects &nbsp;·&nbsp; 🟣 **Comfortable with**: used in practice and learning projects &nbsp;·&nbsp; 🔭 **Exploring now**: currently learning
+| Area | Core: what I reach for first | Also shipped with |
+|:--|:--|:--|
+| ⚛️ **Frontend** | **Next.js** (App Router, Server Components, Server Actions) · **React 19** · **TypeScript** · **Tailwind CSS** · **Vite** | Redux Toolkit · Zustand · TanStack Query · React Hook Form + Zod · shadcn/ui · Framer Motion · Storybook |
+| ⚙️ **Node.js backend** | **NestJS** (modules, DI, guards) · **Express** · REST · **GraphQL** | Prisma · TypeORM · Mongoose · Socket.IO · BullMQ queues · tRPC · JWT / OAuth 2.0 |
+| 🐍 **Python backend** | **FastAPI** · **Flask** · Pydantic | Django + DRF · Celery · pandas · NumPy · OpenCV · MediaPipe |
+| 🗄️ **Data** | **PostgreSQL** · **MongoDB** · **Redis** | MySQL · pgvector · Pinecone · Elasticsearch |
+| ☁️ **Cloud & DevOps** | **Docker** · **GitHub Actions CI/CD** · **AWS** (EC2, S3, Lambda) | Vercel · Render · Nginx · monitoring and logging |
+| 🧪 **Quality** | **Jest** · **Vitest** · **Playwright** · React Testing Library | Postman · code reviews · ESLint / Prettier · Dependabot |
 
-### ⚛️ React ecosystem
+### 🤖 AI & LLM engineering
 
-| | |
+I don't lock products to one model. I pick the right model for each job, and swap or combine them as cost, speed and quality require.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/Google-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Meta-Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama"/>
+<img src="https://img.shields.io/badge/Mistral-AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Ollama-local%20LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white" alt="LlamaIndex"/>
+<img src="https://img.shields.io/badge/Vercel-AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK"/>
+
+</div>
+
+| What I build | How |
 |:--|:--|
-| ✅ **Built with** | React 19 (hooks, components) · Vite · React Router 7 · Tailwind CSS 4 · Bootstrap 5 · Axios · Lucide icons |
-| 🟣 **Comfortable with** | Next.js (App Router) · TypeScript · Redux Toolkit · Zustand · TanStack Query · React Hook Form + Zod · shadcn/ui · Framer Motion |
-| 🔭 **Exploring now** | React Server Components · Server Actions · React Compiler |
+| **RAG (chat with your data)** | Chunking, embeddings and vector search (pgvector / Pinecone), with answers that cite their sources |
+| **AI agents** | Tool and function calling, multi-step workflows, MCP integrations, human-in-the-loop checks |
+| **Multi-LLM routing** | Send each task to the best model for its cost and speed, with fallbacks if a provider fails |
+| **Structured output** | JSON-schema responses validated with Zod or Pydantic, so the AI's output can safely drive the app |
+| **Production readiness** | Streaming responses, caching, rate limits, prompt versioning, evals, guardrails and cost tracking |
 
-### 🟢 Node.js ecosystem
-
-| | |
-|:--|:--|
-| ✅ **Built with** | Node.js · Express 5 · REST APIs · Mongoose · Multer (file uploads) · dotenv config |
-| 🟣 **Comfortable with** | JWT auth · role-based access (RBAC) · Socket.IO (real-time) · Prisma ORM · input validation with Zod |
-| 🔭 **Exploring now** | NestJS · tRPC · Bun · queues with BullMQ |
-
-### 🐍 Python ecosystem
-
-| | |
-|:--|:--|
-| ✅ **Built with** | Python 3 · OpenCV · MediaPipe · NumPy |
-| 🟣 **Comfortable with** | FastAPI · Flask · Django · Pydantic · pandas |
-| 🔭 **Exploring now** | LangChain · building AI agents |
-
-### 🗄️ Data, 🤖 AI and ☁️ DevOps
-
-| Area | Tools |
-|:--|:--|
-| **Databases** | ✅ MongoDB · 🟣 MySQL · PostgreSQL · Redis (caching) |
-| **AI** | ✅ Google Gemini API, structured JSON output · 🟣 prompt engineering · OpenAI / Claude APIs · 🔭 RAG with vector search |
-| **Testing** | 🟣 Jest · React Testing Library · Postman API testing · 🔭 Vitest · Playwright |
-| **DevOps** | ✅ Git & GitHub · GitHub Actions (this profile updates itself daily) · 🟣 Docker · Vercel · Render |
+```mermaid
+flowchart LR
+    Q([User request]) --> R{Model router}
+    R -- reasoning --> C[Claude]
+    R -- general --> O[GPT]
+    R -- long context / vision --> G[Gemini]
+    R -- private / low cost --> L[Llama via Ollama]
+    C & O & G & L --> V[Validate + guardrails]
+    K[(Vector DB<br/>company data)] -. RAG context .-> R
+    V --> A([Answer + sources])
+```
 
 ## 🏛️ Architecture & design patterns I use
 
@@ -120,23 +133,24 @@ A game you play with **your hand in front of the webcam**. No keyboard and no mo
 <td width="50%" valign="top">
 
 **Frontend patterns**
-- **Component-based UI**: small, reusable pieces (`Sidebar`, `Header`, `UserNav`)
-- **Pages + components** folder structure
-- **Custom hooks** to keep logic out of the UI
-- **Container / presentational** split
-- **Client-side routing** for fast, app-like navigation
-- **Mobile-first, responsive** design
+- **Server + client components** (Next.js) for speed and SEO
+- **Design systems** with reusable, accessible components
+- **Custom hooks** and **feature-based folders**
+- **Server state vs client state** (TanStack Query + Zustand)
+- **Micro-frontends** for large teams, when needed
+- **Performance**: code splitting, lazy loading, Core Web Vitals
 
 </td>
 <td width="50%" valign="top">
 
 **Backend patterns**
-- **MVC / layered architecture**: routes → controllers → services → models
-- **RESTful API design** with proper status codes and clean JSON errors
-- **Middleware** for auth, uploads, validation and error handling
-- **Role-based access control** (admin, user, and so on)
-- **Config in environment variables**, never hard-coded secrets
-- **Monolith first**, split into services only when needed
+- **Layered / Clean architecture**: controllers → services → repositories
+- **Modular monolith → microservices** when scale demands it
+- **Event-driven** design with queues and background jobs
+- **REST + GraphQL API design**, versioning and OpenAPI docs
+- **Auth**: JWT, OAuth 2.0 / SSO, role-based access (RBAC)
+- **Caching** with Redis, plus rate limiting and idempotency
+- **SOLID**, dependency injection (NestJS), 12-factor config
 
 </td>
 </tr>
@@ -144,18 +158,19 @@ A game you play with **your hand in front of the webcam**. No keyboard and no mo
 
 ```mermaid
 flowchart TB
-    subgraph Client["🖥️ Client: React"]
+    subgraph Client["🖥️ Client: Next.js · React"]
         P[Pages] --> C[Reusable components]
         C --> H[Custom hooks + state]
     end
-    subgraph Server["⚙️ Server: Node.js / Express"]
+    subgraph Server["⚙️ Server: NestJS · Express · FastAPI"]
         R[Routes] --> M[Middleware<br/>auth · validation · errors]
         M --> CT[Controllers]
         CT --> S[Services<br/>business logic]
         S --> MD[Models / ORM]
     end
     H -- "HTTPS · REST / JSON" --> R
-    MD --> DB[(MongoDB / SQL)]
+    MD --> DB[(PostgreSQL · MongoDB)]
+    S --> RC[(Redis cache · queues)]
     S --> AI{{AI APIs<br/>Gemini · LLMs}}
     S --> PY[Python services<br/>vision · data]
 ```
@@ -207,7 +222,7 @@ flowchart LR
 
 ## 🤝 Let's work together
 
-I'm open to **full-time full-stack developer roles** and **freelance projects**, such as web apps, dashboards, REST APIs and AI features for existing products.
+I'm open to **senior full-stack / AI engineer roles** and **freelance projects**: SaaS products, AI features (chatbots, RAG, agents) for existing apps, dashboards and scalable APIs.
 
 <div align="center">
 
