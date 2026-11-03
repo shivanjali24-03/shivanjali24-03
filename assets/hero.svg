@@ -46,71 +46,63 @@
     </g>
 
     <g transform="translate(70 0)">
-      <text x="0" y="66" font-size="16" fill="#00f0ff" class="fade" style="animation-delay:.1s" letter-spacing="3">&lt;/&gt; 7+ YEARS · SHIPPING PRODUCTS END-TO-END</text>
-      <text x="0" y="138" font-size="56" font-weight="800" fill="url(#title)" filter="url(#glow)" class="fade" style="animation-delay:.4s" letter-spacing="1">SENIOR FULL-STACK</text>
-      <text x="0" y="202" font-size="56" font-weight="800" fill="#f5f3ff" class="fade" style="animation-delay:.8s" letter-spacing="1">&amp; AI ENGINEER<tspan fill="#ff2bd6" class="blink">_</tspan></text>
-      <text x="0" y="244" font-size="16" fill="#c4b5fd" class="fade" style="animation-delay:1.2s">Scalable platforms · Multi-LLM products · Clean architecture · Product thinking</text>
+      <text x="0" y="66" font-size="16" fill="#00f0ff" class="fade" style="animation-delay:.1s" letter-spacing="3">&lt;/&gt; 7+ YEARS · FROM SCRATCH TO PRODUCTION · TEAM LEAD</text>
+      <text x="0" y="138" font-size="56" font-weight="800" fill="url(#title)" filter="url(#glow)" class="fade" style="animation-delay:.4s" letter-spacing="1">SENIOR REACT &amp;</text>
+      <text x="0" y="202" font-size="56" font-weight="800" fill="#f5f3ff" class="fade" style="animation-delay:.8s" letter-spacing="1">FULL-STACK DEVELOPER<tspan fill="#ff2bd6" class="blink">_</tspan></text>
+      <text x="0" y="244" font-size="16" fill="#c4b5fd" class="fade" style="animation-delay:1.2s">Product builder · Team leader · Cloud-ready apps · Clean architecture</text>
       <g class="fade" style="animation-delay:1.60s">
-        <text x="0" y="303" font-size="12" font-weight="700" fill="#00e5ff" letter-spacing="2">UI</text>
-        <rect x="86" y="282" width="85" height="32" rx="16" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.55"/>
-        <text x="128.5" y="303" text-anchor="middle" class="chip">Next.js</text>
-        <rect x="181" y="282" width="93" height="32" rx="16" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.55"/>
-        <text x="227.5" y="303" text-anchor="middle" class="chip">React 19</text>
+        <text x="0" y="303" font-size="12" font-weight="700" fill="#00e5ff" letter-spacing="2">REACT</text>
+        <rect x="86" y="282" width="93" height="32" rx="16" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.55"/>
+        <text x="132.5" y="303" text-anchor="middle" class="chip">React 19</text>
+        <rect x="189" y="282" width="85" height="32" rx="16" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.55"/>
+        <text x="231.5" y="303" text-anchor="middle" class="chip">Next.js</text>
         <rect x="284" y="282" width="110" height="32" rx="16" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.55"/>
         <text x="339.0" y="303" text-anchor="middle" class="chip">TypeScript</text>
-        <rect x="404" y="282" width="93" height="32" rx="16" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.55"/>
-        <text x="450.5" y="303" text-anchor="middle" class="chip">Tailwind</text>
-        <rect x="507" y="282" width="60" height="32" rx="16" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.55"/>
-        <text x="537.0" y="303" text-anchor="middle" class="chip">Vite</text>
-        <rect x="577" y="282" width="135" height="32" rx="16" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.55"/>
-        <text x="644.5" y="303" text-anchor="middle" class="chip">Framer Motion</text>
+        <rect x="404" y="282" width="135" height="32" rx="16" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.55"/>
+        <text x="471.5" y="303" text-anchor="middle" class="chip">Redux Toolkit</text>
+        <rect x="549" y="282" width="144" height="32" rx="16" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.55"/>
+        <text x="621.0" y="303" text-anchor="middle" class="chip">TanStack Query</text>
+        <rect x="703" y="282" width="93" height="32" rx="16" fill="#00e5ff" fill-opacity="0.10" stroke="#00e5ff" stroke-opacity="0.55"/>
+        <text x="749.5" y="303" text-anchor="middle" class="chip">Tailwind</text>
       </g>
       <g class="fade" style="animation-delay:1.75s">
         <text x="0" y="341" font-size="12" font-weight="700" fill="#a855f7" letter-spacing="2">API</text>
-        <rect x="86" y="320" width="76" height="32" rx="16" fill="#a855f7" fill-opacity="0.10" stroke="#a855f7" stroke-opacity="0.55"/>
-        <text x="124.0" y="341" text-anchor="middle" class="chip">NestJS</text>
-        <rect x="172" y="320" width="85" height="32" rx="16" fill="#a855f7" fill-opacity="0.10" stroke="#a855f7" stroke-opacity="0.55"/>
-        <text x="214.5" y="341" text-anchor="middle" class="chip">Express</text>
+        <rect x="86" y="320" width="85" height="32" rx="16" fill="#a855f7" fill-opacity="0.10" stroke="#a855f7" stroke-opacity="0.55"/>
+        <text x="128.5" y="341" text-anchor="middle" class="chip">Node.js</text>
+        <rect x="181" y="320" width="76" height="32" rx="16" fill="#a855f7" fill-opacity="0.10" stroke="#a855f7" stroke-opacity="0.55"/>
+        <text x="219.0" y="341" text-anchor="middle" class="chip">NestJS</text>
         <rect x="267" y="320" width="85" height="32" rx="16" fill="#a855f7" fill-opacity="0.10" stroke="#a855f7" stroke-opacity="0.55"/>
-        <text x="309.5" y="341" text-anchor="middle" class="chip">Node.js</text>
+        <text x="309.5" y="341" text-anchor="middle" class="chip">Express</text>
         <rect x="362" y="320" width="68" height="32" rx="16" fill="#a855f7" fill-opacity="0.10" stroke="#a855f7" stroke-opacity="0.55"/>
         <text x="396.0" y="341" text-anchor="middle" class="chip">Flask</text>
-        <rect x="440" y="320" width="85" height="32" rx="16" fill="#a855f7" fill-opacity="0.10" stroke="#a855f7" stroke-opacity="0.55"/>
-        <text x="482.5" y="341" text-anchor="middle" class="chip">FastAPI</text>
-        <rect x="535" y="320" width="85" height="32" rx="16" fill="#a855f7" fill-opacity="0.10" stroke="#a855f7" stroke-opacity="0.55"/>
-        <text x="577.5" y="341" text-anchor="middle" class="chip">GraphQL</text>
+        <rect x="440" y="320" width="60" height="32" rx="16" fill="#a855f7" fill-opacity="0.10" stroke="#a855f7" stroke-opacity="0.55"/>
+        <text x="470.0" y="341" text-anchor="middle" class="chip">REST</text>
+        <rect x="510" y="320" width="85" height="32" rx="16" fill="#a855f7" fill-opacity="0.10" stroke="#a855f7" stroke-opacity="0.55"/>
+        <text x="552.5" y="341" text-anchor="middle" class="chip">GraphQL</text>
       </g>
       <g class="fade" style="animation-delay:1.90s">
-        <text x="0" y="379" font-size="12" font-weight="700" fill="#ff2bd6" letter-spacing="2">AI</text>
-        <rect x="86" y="358" width="76" height="32" rx="16" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-opacity="0.55"/>
-        <text x="124.0" y="379" text-anchor="middle" class="chip">OpenAI</text>
-        <rect x="172" y="358" width="76" height="32" rx="16" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-opacity="0.55"/>
-        <text x="210.0" y="379" text-anchor="middle" class="chip">Claude</text>
-        <rect x="258" y="358" width="76" height="32" rx="16" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-opacity="0.55"/>
-        <text x="296.0" y="379" text-anchor="middle" class="chip">Gemini</text>
-        <rect x="344" y="358" width="68" height="32" rx="16" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-opacity="0.55"/>
-        <text x="378.0" y="379" text-anchor="middle" class="chip">Llama</text>
-        <rect x="422" y="358" width="102" height="32" rx="16" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-opacity="0.55"/>
-        <text x="473.0" y="379" text-anchor="middle" class="chip">LangChain</text>
-        <rect x="534" y="358" width="51" height="32" rx="16" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-opacity="0.55"/>
-        <text x="559.5" y="379" text-anchor="middle" class="chip">RAG</text>
-        <rect x="595" y="358" width="102" height="32" rx="16" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-opacity="0.55"/>
-        <text x="646.0" y="379" text-anchor="middle" class="chip">AI Agents</text>
+        <text x="0" y="379" font-size="12" font-weight="700" fill="#ff2bd6" letter-spacing="2">CLOUD</text>
+        <rect x="86" y="358" width="169" height="32" rx="16" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-opacity="0.55"/>
+        <text x="170.5" y="379" text-anchor="middle" class="chip">Azure App Service</text>
+        <rect x="265" y="358" width="152" height="32" rx="16" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-opacity="0.55"/>
+        <text x="341.0" y="379" text-anchor="middle" class="chip">Azure Functions</text>
+        <rect x="427" y="358" width="51" height="32" rx="16" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-opacity="0.55"/>
+        <text x="452.5" y="379" text-anchor="middle" class="chip">AWS</text>
+        <rect x="488" y="358" width="76" height="32" rx="16" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-opacity="0.55"/>
+        <text x="526.0" y="379" text-anchor="middle" class="chip">Docker</text>
+        <rect x="574" y="358" width="68" height="32" rx="16" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-opacity="0.55"/>
+        <text x="608.0" y="379" text-anchor="middle" class="chip">CI/CD</text>
       </g>
       <g class="fade" style="animation-delay:2.05s">
         <text x="0" y="417" font-size="12" font-weight="700" fill="#22c55e" letter-spacing="2">DATA</text>
         <rect x="86" y="396" width="110" height="32" rx="16" fill="#22c55e" fill-opacity="0.10" stroke="#22c55e" stroke-opacity="0.55"/>
         <text x="141.0" y="417" text-anchor="middle" class="chip">PostgreSQL</text>
-        <rect x="206" y="396" width="85" height="32" rx="16" fill="#22c55e" fill-opacity="0.10" stroke="#22c55e" stroke-opacity="0.55"/>
-        <text x="248.5" y="417" text-anchor="middle" class="chip">MongoDB</text>
-        <rect x="301" y="396" width="68" height="32" rx="16" fill="#22c55e" fill-opacity="0.10" stroke="#22c55e" stroke-opacity="0.55"/>
-        <text x="335.0" y="417" text-anchor="middle" class="chip">Redis</text>
-        <rect x="379" y="396" width="76" height="32" rx="16" fill="#22c55e" fill-opacity="0.10" stroke="#22c55e" stroke-opacity="0.55"/>
-        <text x="417.0" y="417" text-anchor="middle" class="chip">Docker</text>
-        <rect x="465" y="396" width="51" height="32" rx="16" fill="#22c55e" fill-opacity="0.10" stroke="#22c55e" stroke-opacity="0.55"/>
-        <text x="490.5" y="417" text-anchor="middle" class="chip">AWS</text>
-        <rect x="526" y="396" width="68" height="32" rx="16" fill="#22c55e" fill-opacity="0.10" stroke="#22c55e" stroke-opacity="0.55"/>
-        <text x="560.0" y="417" text-anchor="middle" class="chip">CI/CD</text>
+        <rect x="206" y="396" width="110" height="32" rx="16" fill="#22c55e" fill-opacity="0.10" stroke="#22c55e" stroke-opacity="0.55"/>
+        <text x="261.0" y="417" text-anchor="middle" class="chip">SQL Server</text>
+        <rect x="326" y="396" width="85" height="32" rx="16" fill="#22c55e" fill-opacity="0.10" stroke="#22c55e" stroke-opacity="0.55"/>
+        <text x="368.5" y="417" text-anchor="middle" class="chip">MongoDB</text>
+        <rect x="421" y="396" width="68" height="32" rx="16" fill="#22c55e" fill-opacity="0.10" stroke="#22c55e" stroke-opacity="0.55"/>
+        <text x="455.0" y="417" text-anchor="middle" class="chip">Redis</text>
       </g>
     </g>
 
@@ -119,8 +111,8 @@
     <g class="spin"><circle cx="1148" cy="200" r="6" fill="#ff2bd6" filter="url(#glow)"/></g>
     <g class="spinr"><circle cx="1030" cy="114" r="5" fill="#00f0ff" filter="url(#glow)"/></g>
     <circle cx="1030" cy="200" r="48" fill="#0b0726" stroke="url(#title)" stroke-width="2.5" filter="url(#glow)"/>
-    <text x="1030" y="196" text-anchor="middle" font-size="22" font-weight="800" fill="url(#title)">AI</text>
-    <text x="1030" y="218" text-anchor="middle" font-size="11" fill="#c4b5fd" letter-spacing="2">{ }</text>
+    <text x="1030" y="196" text-anchor="middle" font-size="22" font-weight="800" fill="url(#title)">&lt;/&gt;</text>
+    <text x="1030" y="218" text-anchor="middle" font-size="11" fill="#c4b5fd" letter-spacing="1">REACT</text>
     <rect x="1" y="1" width="1198" height="458" rx="21" fill="none" stroke="url(#title)" stroke-opacity="0.6" stroke-width="2"/>
   </g>
 </svg>

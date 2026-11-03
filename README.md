@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Senior Full-Stack & AI Engineer, 7+ years: Next.js, NestJS, Flask, FastAPI, multi-LLM, RAG, PostgreSQL"/>
+<img src="./assets/hero.svg" width="100%" alt="Senior React & Full-Stack Developer, 7+ years: React, Next.js, TypeScript, Node.js, NestJS, Azure, AWS, CI/CD, team lead"/>
 
 <a href="https://github.com/shivanjali24-03">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=7%2B+years+shipping+products+end+to+end;Next.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Multi-LLM+apps%3A+OpenAI+%C2%B7+Claude+%C2%B7+Gemini+%C2%B7+Llama;RAG+pipelines+%C2%B7+AI+agents+%C2%B7+clean+architecture;From+idea+to+production+%E2%80%94+and+scale" alt="What I do"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=7%2B+years+building+React+products+from+scratch;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+NestJS;Azure+App+Service+%C2%B7+AWS+%C2%B7+CI%2FCD+pipelines;Leading+teams+from+idea+to+production" alt="What I do"/>
 </a>
 
 <p>
   <img src="https://img.shields.io/badge/Experience-7%2B%20years-a855f7?style=for-the-badge&labelColor=0b0726" alt="7+ years experience"/>
-  <img src="https://img.shields.io/badge/Open%20to-Senior%20Full--Stack%20%2F%20AI%20Roles%20%26%20Freelance-22c55e?style=for-the-badge&labelColor=0b0726" alt="Open to senior full-stack / AI roles and freelance"/>
+  <img src="https://img.shields.io/badge/Role-Senior%20React%20%2F%20Full--Stack%20%C2%B7%20Team%20Lead-00b8d4?style=for-the-badge&labelColor=0b0726" alt="Senior React / Full-Stack, Team Lead"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20new%20roles-22c55e?style=for-the-badge&labelColor=0b0726" alt="Open to new roles"/>
 </p>
 <p>
   <img src="https://komarev.com/ghpvc/?username=shivanjali24-03&style=flat-square&color=7c3aed&label=profile+views" alt="Profile views"/>
@@ -19,15 +20,168 @@
 
 ## 👋 About me
 
-I'm a **senior full-stack and AI engineer** with **7+ years** of building web products from the first idea to production, and then scaling them.
+I'm a **senior React and full-stack developer** with **7+ years** of building web products, from an empty repo to a live, scaled product, and leading the teams that build them.
 
-- 🎨 **Frontend:** I build fast, polished interfaces with **Next.js**, **React 19**, **TypeScript**, **Tailwind** and **Framer Motion**, with design systems, accessibility and Core Web Vitals in mind.
-- ⚙️ **Backend:** I design APIs and services with **NestJS**, **Express**, **Flask** and **FastAPI**, both REST and GraphQL, on **PostgreSQL**, **MongoDB** and **Redis**.
-- 🤖 **AI:** I build **multi-LLM** products with **OpenAI, Claude, Gemini and open-source Llama models**. That covers RAG over company data, AI agents with tool calling, prompt design, model routing, and evaluating output quality.
-- 🏛️ **Architecture:** clean, layered and modular systems, from microservices and event-driven design to caching, auth/RBAC, and cloud deployment with Docker and CI/CD.
-- 🧭 **Product:** I think like a product owner. I care about the user problem, the metric we're moving, and shipping in small, safe steps.
+- ⚛️ **React first:** I build fast, polished, accessible interfaces with **React**, **Next.js**, **TypeScript**, **Redux Toolkit** and **Tailwind**.
+- ⚙️ **Full-stack:** I design the APIs and databases behind the UI with **Node.js**, **NestJS**, **Express** and **Flask**, on **PostgreSQL**, **SQL Server** and **MongoDB**.
+- ☁️ **Cloud and delivery:** I deploy and run apps on **Azure** (App Service, Functions, email services, Key Vault) and **AWS**, with automated **CI/CD** pipelines.
+- 👥 **Leadership:** I lead teams, plan sprints, review code, mentor developers, and work directly with clients, product owners and designers.
+- 🤖 **AI where it helps:** I use AI tools and APIs to build smarter features and to work faster, not for the sake of it.
 
-> **What I bring to a team:** I own features end to end (UI, API, data and AI), make sound architecture calls, mentor other developers, and work directly with product and design to ship things users love.
+> **What I bring to a team:** I can take a product **from scratch to production**: the UI, the API, the database, the cloud setup and the release pipeline. I can also lead the people building it.
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,sass,vite,nodejs,nestjs,express,python,flask,graphql,postgres,mongodb,redis,azure,aws,docker,githubactions,jest,git,figma&perline=12&theme=dark" alt="Tech stack"/>
+
+</div>
+
+| Area | Core: what I use every day | Also worked with |
+|:--|:--|:--|
+| ⚛️ **Frontend (React)** | **React 18/19** · **Next.js** (App Router, SSR/SSG) · **TypeScript** · **Redux Toolkit** · **TanStack Query** | Zustand · Context API · React Router · React Hook Form + Zod · Tailwind CSS · Material UI · shadcn/ui · Bootstrap · Sass · Framer Motion · Storybook · Vite / Webpack |
+| ⚙️ **Backend** | **Node.js** · **NestJS** · **Express** · REST APIs | Flask (Python) · GraphQL · Socket.IO · Prisma · TypeORM · Mongoose · JWT / OAuth 2.0 · Swagger / OpenAPI |
+| 🗄️ **Databases** | **PostgreSQL** · **SQL Server** · **MongoDB** | MySQL · Redis (caching) · Azure SQL |
+| 🧪 **Quality** | **Jest** · **React Testing Library** · code reviews | Cypress / Playwright · Postman · ESLint / Prettier · SonarQube |
+| 🧰 **Tools & process** | **Git** · **Jira** · **Agile / Scrum** | Azure Boards · Figma · Confluence · VS Code |
+
+## ☁️ Cloud, DevOps and CI/CD
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+
+</div>
+
+| Platform | Services I've used |
+|:--|:--|
+| **Microsoft Azure** | **Azure App Service** (Web Apps for React and Node.js) · **Static Web Apps** · **Azure Functions** · **Azure email setup** (Communication Services Email, SMTP, SendGrid) · Blob Storage · **Azure SQL** · Key Vault (secrets) · Application Insights (monitoring) · **Microsoft Entra ID** (Azure AD login / SSO) · custom domains and SSL |
+| **AWS** | EC2 · S3 · CloudFront (CDN) · Lambda · RDS · SES (email) · IAM · Route 53 |
+| **CI/CD** | **Azure DevOps Pipelines** · **GitHub Actions**: build, test and deploy on every merge · separate **dev / staging / production** environments · environment variables and secrets management · deployment slots for zero-downtime releases |
+
+```mermaid
+flowchart LR
+    D[👩‍💻 Developer<br/>pushes code] --> PR[Pull request<br/>+ code review]
+    PR --> CI[CI pipeline<br/>lint · test · build]
+    CI --> ST[🧪 Staging<br/>Azure App Service slot]
+    ST -- QA approved --> PRD[🚀 Production<br/>Azure / AWS]
+    PRD --> MON[📈 Monitoring<br/>App Insights · logs · alerts]
+    MON -. feedback .-> D
+```
+
+## 👥 Leadership & teamwork
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Leading the team**
+- Lead and mentor **frontend and full-stack developers**
+- Run **sprint planning**, estimation and stand-ups
+- Set **coding standards**, folder structure and review rules
+- Do thorough **code reviews** that teach, not just approve
+- Help **hire**: technical interviews and onboarding new joiners
+
+</td>
+<td width="50%" valign="top">
+
+**Working with the business**
+- Turn client and business needs into **clear user stories**
+- Work closely with **product owners, designers and QA**
+- Give **honest estimates** and flag risks early
+- Present demos and progress to **stakeholders**
+- Make **technical decisions**, and explain them in plain English
+
+</td>
+</tr>
+</table>
+
+## 🏗️ Full product development: from scratch to the end
+
+```mermaid
+flowchart LR
+    A[💡 Requirements<br/>meet client · user stories] --> B[✏️ Design<br/>Figma · UX review]
+    B --> C[🏛️ Architecture<br/>tech stack · DB schema · API contract]
+    C --> D[📋 Plan<br/>sprints · tasks · estimates]
+    D --> E[💻 Build<br/>React UI + Node APIs]
+    E --> F[🧪 Test<br/>unit · integration · QA]
+    F --> G[🚀 Deploy<br/>CI/CD to Azure / AWS]
+    G --> H[📈 Support<br/>monitor · fix · improve]
+    H -. next release .-> D
+```
+
+| Stage | What I do |
+|:--|:--|
+| **1. Requirements** | Meet the client, understand the real problem, and write user stories with clear acceptance criteria |
+| **2. Design** | Work with designers in Figma, and check the flows for usability and edge cases |
+| **3. Architecture** | Choose the tech stack, design the database schema and API contracts, and plan auth and roles |
+| **4. Setup** | Create the repo, folder structure, linting, environments and the CI/CD pipeline on day one |
+| **5. Build** | Reusable React components, state management, secure REST APIs, and email and file features |
+| **6. Test** | Unit and integration tests, code reviews, QA cycles and performance checks |
+| **7. Deploy** | Automated releases to Azure App Service / AWS, with custom domains, SSL and secrets in Key Vault |
+| **8. Support & grow** | Monitoring with Application Insights, bug fixes, new features, and scaling as users grow |
+
+## 🏛️ Architecture & design patterns
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**React / frontend**
+- **Component-driven** UI and reusable **design systems**
+- **Feature-based folder structure** for large apps
+- **Custom hooks** to keep logic clean and testable
+- **Server state vs client state** (TanStack Query + Redux / Zustand)
+- **SSR / SSG** with Next.js for speed and SEO
+- **Performance**: code splitting, lazy loading, memoization, Core Web Vitals
+- **Accessibility** (WCAG) and responsive, mobile-first design
+
+</td>
+<td width="50%" valign="top">
+
+**Backend & system**
+- **Layered architecture**: controllers → services → data layer
+- **Modular monolith first**, microservices when scale needs it
+- **RESTful API design**, versioning and Swagger docs
+- **Auth**: JWT, OAuth 2.0, SSO with Entra ID, role-based access
+- **Background jobs** and transactional **email** flows
+- **Caching** with Redis, plus rate limiting
+- **SOLID** principles, dependency injection (NestJS), 12-factor config
+
+</td>
+</tr>
+</table>
+
+```mermaid
+flowchart TB
+    subgraph Client["🖥️ React / Next.js app"]
+        P[Pages & routes] --> C[Reusable components]
+        C --> H[Hooks + state<br/>Redux · TanStack Query]
+    end
+    subgraph Server["⚙️ Node.js / NestJS API"]
+        R[Routes] --> M[Middleware<br/>auth · validation · errors]
+        M --> CT[Controllers]
+        CT --> S[Services<br/>business logic]
+        S --> MD[Data layer / ORM]
+    end
+    subgraph Cloud["☁️ Azure / AWS"]
+        DB[(SQL / MongoDB)]
+        RC[(Redis cache)]
+        EM[📧 Email service]
+        BL[📁 Blob / S3 storage]
+    end
+    H -- "HTTPS · REST / JSON" --> R
+    MD --> DB
+    S --> RC
+    S --> EM
+    S --> BL
+```
 
 ## 🚀 Featured projects
 
@@ -35,10 +189,10 @@ I'm a **senior full-stack and AI engineer** with **7+ years** of building web pr
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [AI Resume Analyser](https://github.com/shivanjali24-03/AI-Resume-Analyser)
-Upload a resume (PDF) and paste a job description. The app gives you an **ATS match score**, the skills you **have**, the skills you're **missing**, and clear tips to improve.
+### 📄 [Resume Analyser](https://github.com/shivanjali24-03/AI-Resume-Analyser)
+A React app where you upload a resume (PDF) and paste a job description. It shows a **match score**, the skills you **have**, the skills you're **missing**, and tips to improve. The text analysis is done by an AI API.
 
-`React 19` `Vite` `Tailwind` `Node.js` `Express` `Gemini AI` `Multer` `PDF parsing`
+`React 19` `Vite` `Tailwind` `Node.js` `Express` `File upload` `PDF parsing`
 
 </td>
 <td width="50%" valign="top">
@@ -62,139 +216,13 @@ An admin panel with a dashboard, user list, **role management**, account forms, 
 <td width="50%" valign="top">
 
 ### ✋ [Hand-Gesture Game (Python)](https://github.com/shivanjali24-03/python_projects)
-A game you play with **your hand in front of the webcam**. No keyboard and no mouse. It tracks your hand in real time to catch falling objects. It's part of a day-by-day Python practice series.
+A game you play with **your hand in front of the webcam**. No keyboard and no mouse. It tracks your hand in real time to catch falling objects.
 
 `Python` `OpenCV` `MediaPipe` `Computer vision`
 
 </td>
 </tr>
 </table>
-
-## 🛠️ Tech stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vite,redux,nodejs,nestjs,express,graphql,python,fastapi,flask,django,postgres,mongodb,redis,prisma,docker,aws,githubactions,vercel,jest,figma&perline=12&theme=dark" alt="Tech stack"/>
-
-</div>
-
-| Area | Core: what I reach for first | Also shipped with |
-|:--|:--|:--|
-| ⚛️ **Frontend** | **Next.js** (App Router, Server Components, Server Actions) · **React 19** · **TypeScript** · **Tailwind CSS** · **Vite** | Redux Toolkit · Zustand · TanStack Query · React Hook Form + Zod · shadcn/ui · Framer Motion · Storybook |
-| ⚙️ **Node.js backend** | **NestJS** (modules, DI, guards) · **Express** · REST · **GraphQL** | Prisma · TypeORM · Mongoose · Socket.IO · BullMQ queues · tRPC · JWT / OAuth 2.0 |
-| 🐍 **Python backend** | **FastAPI** · **Flask** · Pydantic | Django + DRF · Celery · pandas · NumPy · OpenCV · MediaPipe |
-| 🗄️ **Data** | **PostgreSQL** · **MongoDB** · **Redis** | MySQL · pgvector · Pinecone · Elasticsearch |
-| ☁️ **Cloud & DevOps** | **Docker** · **GitHub Actions CI/CD** · **AWS** (EC2, S3, Lambda) | Vercel · Render · Nginx · monitoring and logging |
-| 🧪 **Quality** | **Jest** · **Vitest** · **Playwright** · React Testing Library | Postman · code reviews · ESLint / Prettier · Dependabot |
-
-### 🤖 AI & LLM engineering
-
-I don't lock products to one model. I pick the right model for each job, and swap or combine them as cost, speed and quality require.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-<img src="https://img.shields.io/badge/Google-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Meta-Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama"/>
-<img src="https://img.shields.io/badge/Mistral-AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/Ollama-local%20LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white" alt="LlamaIndex"/>
-<img src="https://img.shields.io/badge/Vercel-AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK"/>
-
-</div>
-
-| What I build | How |
-|:--|:--|
-| **RAG (chat with your data)** | Chunking, embeddings and vector search (pgvector / Pinecone), with answers that cite their sources |
-| **AI agents** | Tool and function calling, multi-step workflows, MCP integrations, human-in-the-loop checks |
-| **Multi-LLM routing** | Send each task to the best model for its cost and speed, with fallbacks if a provider fails |
-| **Structured output** | JSON-schema responses validated with Zod or Pydantic, so the AI's output can safely drive the app |
-| **Production readiness** | Streaming responses, caching, rate limits, prompt versioning, evals, guardrails and cost tracking |
-
-```mermaid
-flowchart LR
-    Q([User request]) --> R{Model router}
-    R -- reasoning --> C[Claude]
-    R -- general --> O[GPT]
-    R -- long context / vision --> G[Gemini]
-    R -- private / low cost --> L[Llama via Ollama]
-    C & O & G & L --> V[Validate + guardrails]
-    K[(Vector DB<br/>company data)] -. RAG context .-> R
-    V --> A([Answer + sources])
-```
-
-## 🏛️ Architecture & design patterns I use
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Frontend patterns**
-- **Server + client components** (Next.js) for speed and SEO
-- **Design systems** with reusable, accessible components
-- **Custom hooks** and **feature-based folders**
-- **Server state vs client state** (TanStack Query + Zustand)
-- **Micro-frontends** for large teams, when needed
-- **Performance**: code splitting, lazy loading, Core Web Vitals
-
-</td>
-<td width="50%" valign="top">
-
-**Backend patterns**
-- **Layered / Clean architecture**: controllers → services → repositories
-- **Modular monolith → microservices** when scale demands it
-- **Event-driven** design with queues and background jobs
-- **REST + GraphQL API design**, versioning and OpenAPI docs
-- **Auth**: JWT, OAuth 2.0 / SSO, role-based access (RBAC)
-- **Caching** with Redis, plus rate limiting and idempotency
-- **SOLID**, dependency injection (NestJS), 12-factor config
-
-</td>
-</tr>
-</table>
-
-```mermaid
-flowchart TB
-    subgraph Client["🖥️ Client: Next.js · React"]
-        P[Pages] --> C[Reusable components]
-        C --> H[Custom hooks + state]
-    end
-    subgraph Server["⚙️ Server: NestJS · Express · FastAPI"]
-        R[Routes] --> M[Middleware<br/>auth · validation · errors]
-        M --> CT[Controllers]
-        CT --> S[Services<br/>business logic]
-        S --> MD[Models / ORM]
-    end
-    H -- "HTTPS · REST / JSON" --> R
-    MD --> DB[(PostgreSQL · MongoDB)]
-    S --> RC[(Redis cache · queues)]
-    S --> AI{{AI APIs<br/>Gemini · LLMs}}
-    S --> PY[Python services<br/>vision · data]
-```
-
-## 🔄 How I take a product from idea to launch
-
-```mermaid
-flowchart LR
-    A[💡 Understand<br/>the problem] --> B[✏️ Design<br/>wireframes · Figma]
-    B --> C[📋 Plan<br/>user stories · tasks]
-    C --> D[💻 Build<br/>API + UI in small steps]
-    D --> E[🧪 Test<br/>manual + automated]
-    E --> F[🚀 Ship<br/>CI/CD · deploy]
-    F --> G[📈 Measure<br/>feedback · fix · improve]
-    G -. next iteration .-> A
-```
-
-1. **Understand:** Who is the user, what's their problem, and what does success look like?
-2. **Design:** Sketch the screens and the data model before writing code.
-3. **Plan:** Break the work into small user stories and work in **Agile** sprints.
-4. **Build:** Start with the API, then the UI. Make small commits with clear messages, and use branches and pull requests.
-5. **Test:** Test every endpoint in Postman, add unit tests for the core logic, and check the UI on mobile.
-6. **Ship:** Deploy early (Vercel / Render) and let GitHub Actions automate the routine steps.
-7. **Improve:** Listen to feedback, fix what hurts most first, and repeat.
 
 ## 📊 My GitHub in graphs
 
@@ -222,7 +250,7 @@ flowchart LR
 
 ## 🤝 Let's work together
 
-I'm open to **senior full-stack / AI engineer roles** and **freelance projects**: SaaS products, AI features (chatbots, RAG, agents) for existing apps, dashboards and scalable APIs.
+I'm open to **Senior React Developer**, **Senior Full-Stack Developer** and **Frontend / Tech Lead** roles. I'm also available for **freelance projects**, from a new product built from scratch to taking over and improving an existing React app.
 
 <div align="center">
 
