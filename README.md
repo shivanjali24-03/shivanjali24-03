@@ -1,141 +1,140 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Full-Stack Developer — React · Node.js · Python · Databases"/>
+<img src="./assets/hero.svg" width="100%" alt="Full-Stack Developer: React, Node.js, Python, Databases"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%E2%9A%A1;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express;MongoDB+%E2%80%A2+MySQL+%E2%80%A2+PostgreSQL;Python+%F0%9F%90%8D+Automation+%26+AI;I+build+fast%2C+scalable+web+apps+%F0%9F%9A%80" alt="Typing SVG"/>
+<a href="https://github.com/shivanjali24-03">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=680&lines=I+build+full-stack+web+apps+end+to+end;React+on+the+front.+Node.js+on+the+back.;MongoDB+for+data.+Python+for+the+smart+parts.;Now+building+AI-powered+tools+with+Gemini" alt="What I do"/>
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=shivanjali24-03&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
-  <a href="https://github.com/shivanjali24-03?tab=followers"><img src="https://img.shields.io/github/followers/shivanjali24-03?style=for-the-badge&color=00f0ff&labelColor=0b0726&logo=github" alt="Followers"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-ff2bd6?style=for-the-badge&labelColor=0b0726" alt="Open to opportunities"/>
+  <img src="https://img.shields.io/badge/Open%20to-Full--Stack%20Roles%20%26%20Freelance-22c55e?style=for-the-badge&labelColor=0b0726" alt="Open to full-stack roles and freelance work"/>
+</p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shivanjali24-03&style=flat-square&color=7c3aed&label=profile+views" alt="Profile views"/>
+  <a href="https://github.com/shivanjali24-03?tab=followers"><img src="https://img.shields.io/github/followers/shivanjali24-03?style=flat-square&color=00b8d4&labelColor=0b0726&logo=github" alt="Followers"/></a>
 </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:a855f7,100:ff2bd6&height=2&section=header" width="100%"/>
+## 👋 About me
 
-## `> whoami`
+I'm a **full-stack developer**. I build web apps from the screen the user sees all the way down to the database.
 
-```js
-const developer = {
-  role:       "Full-Stack Developer",
-  frontend:   ["React.js", "JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3", "Tailwind", "Framer Motion"],
-  backend:    ["Node.js", "Express.js", "REST APIs", "Python"],
-  databases:  ["MongoDB", "MySQL", "PostgreSQL"],
-  tools:      ["Git", "GitHub", "VS Code", "Postman", "Docker"],
-  currently:  "Building AI-powered full-stack apps 🤖",
-  motto:      "Ship clean code. Learn every day. Repeat.",
-};
-```
+- 🎨 **Frontend:** I build clean, responsive interfaces with **React**, **Tailwind** and **Bootstrap**.
+- ⚙️ **Backend:** I write **REST APIs** with **Node.js** and **Express**, and store data in **MongoDB**.
+- 🐍 **Python:** I use Python for logic, automation and computer vision with **OpenCV** and **MediaPipe**.
+- 🤖 **AI:** I connect apps to AI models, such as **Google Gemini**, to make them smarter.
+- 🌱 **Right now:** I'm making my projects production-ready with live demos, tests and clear docs.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:a855f7,100:ff2bd6&height=2&section=header" width="100%"/>
+> **What I bring to a team:** I can take a feature from idea to working product on my own: the UI, the API, the database and the AI part. I write code that other people can read.
 
-## ⚡ Tech Arsenal
-
-<div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,redux,vite&theme=dark" alt="Frontend skills"/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django&theme=dark" alt="Backend skills"/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" alt="Database skills"/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,npm&theme=dark" alt="Tools"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:a855f7,100:ff2bd6&height=2&section=header" width="100%"/>
-
-## 🚀 Featured Projects
+## 🚀 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 [AI Resume Analyser](https://github.com/shivanjali24-03/AI-Resume-Analyser)
-AI-powered resume analysis — scores resumes, highlights gaps and suggests improvements.
+Upload a resume (PDF) and paste a job description. The app gives you an **ATS match score**, the skills you **have**, the skills you're **missing**, and clear tips to improve.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![AI](https://img.shields.io/badge/AI-a855f7?style=flat-square&logo=openai&logoColor=fff)
+`React 19` `Vite` `Tailwind` `Node.js` `Express` `Gemini AI` `Multer` `PDF parsing`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 [Mind Mapper](https://github.com/shivanjali24-03/Mind-Mapper)
-Meditation & mindfulness companion app to map thoughts and build calmer habits.
+A mind-mapping app for organising ideas. A React frontend talks to an Express REST API that saves and loads mind maps from **MongoDB**.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+`React` `Node.js` `Express` `MongoDB` `Mongoose` `REST API`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎫 [Ticketing System](https://github.com/shivanjali24-03/Ticketing-)
-Full-stack ticket booking & management platform with auth and real-time status.
+### 🎫 [Ticketing Admin Dashboard](https://github.com/shivanjali24-03/Ticketing-)
+An admin panel with a dashboard, user list, **role management**, account forms, profile and settings pages, all connected with client-side routing.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
+`React 19` `React Router` `Bootstrap` `Component design`
 
 </td>
 <td width="50%" valign="top">
 
-### 💪 [Fitness App](https://github.com/shivanjali24-03/Fitness-App)
-Workout tracker to plan routines, explore exercises and follow progress.
+### ✋ [Hand-Gesture Game (Python)](https://github.com/shivanjali24-03/python_projects)
+A game you play with **your hand in front of the webcam**. No keyboard and no mouse. It tracks your hand in real time to catch falling objects. It's part of a day-by-day Python practice series.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![API](https://img.shields.io/badge/REST_API-00f0ff?style=flat-square&logoColor=000)
+`Python` `OpenCV` `MediaPipe` `Computer vision`
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:a855f7,100:ff2bd6&height=2&section=header" width="100%"/>
-
-## 📊 GitHub Analytics
+## 🛠️ Tech stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivanjali24-03&show_icons=true&theme=radical&hide_border=true&bg_color=0b0726&title_color=a855f7&icon_color=00f0ff&text_color=e9d5ff&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanjali24-03&layout=compact&hide_border=true&bg_color=0b0726&title_color=a855f7&text_color=e9d5ff&langs_count=8" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=shivanjali24-03&hide_border=true&background=0B0726&ring=A855F7&fire=FF2BD6&currStreakLabel=00F0FF&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub streak"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivanjali24-03&bg_color=0b0726&color=e9d5ff&line=a855f7&point=00f0ff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph"/>
+| Area | Tools |
+|:--|:--|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,vite&theme=dark" height="40"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" height="40"/> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40"/> |
+| **AI & Vision** | <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" height="28"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" height="40"/> |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:a855f7,100:ff2bd6&height=2&section=header" width="100%"/>
+## 🧩 How I build a full-stack app
 
-## 🐍 Contribution Snake
+```mermaid
+flowchart LR
+    U([👤 User]) --> FE[React + Tailwind<br/>UI]
+    FE -- REST / JSON --> API[Node.js + Express<br/>API]
+    API --> DB[(MongoDB)]
+    API --> AI{{Gemini AI}}
+    API --> PY[Python<br/>scripts & CV]
+    style FE fill:#1e1b4b,stroke:#a855f7,color:#fff
+    style API fill:#1e1b4b,stroke:#00b8d4,color:#fff
+    style DB fill:#1e1b4b,stroke:#22c55e,color:#fff
+    style AI fill:#1e1b4b,stroke:#ff2bd6,color:#fff
+    style PY fill:#1e1b4b,stroke:#facc15,color:#fff
+```
+
+## 📊 My GitHub in graphs
 
 <div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+
+<img src="https://streak-stats.demolab.com?user=shivanjali24-03&hide_border=true&background=0B0726&ring=A855F7&fire=FF2BD6&currStreakLabel=00B8D4&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="Commit streak"/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivanjali24-03/shivanjali24-03/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanjali24-03/shivanjali24-03/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/shivanjali24-03/shivanjali24-03/output/github-snake-dark.svg"/>
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/shivanjali24-03/shivanjali24-03/output/github-snake-dark.svg"/>
 </picture>
+
 </div>
 
-## 🤝 Let's Connect
+<details>
+<summary><b>📈 More activity</b></summary>
+<br/>
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivanjali24-03&bg_color=0b0726&color=e9d5ff&line=a855f7&point=00b8d4&area=true&area_color=7c3aed&hide_border=true&custom_title=Contributions%20over%20time" alt="Activity graph"/>
+</div>
+</details>
+
+## 🤝 Let's work together
+
+I'm open to **full-time full-stack developer roles** and **freelance projects**, such as web apps, dashboards, REST APIs and AI features for existing products.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/shivanjali24-03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<!-- Add your links here, then remove these comment markers:
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+-->
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:a855f7,100:ff2bd6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:a855f7,100:ff2bd6&height=110&section=footer" width="100%"/>
