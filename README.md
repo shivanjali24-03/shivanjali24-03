@@ -3,7 +3,7 @@
 <img src="./assets/hero.svg" width="100%" alt="Senior React & Full-Stack Developer, 4+ years: Healthcare (HIPAA), CRM, ERP, Billing. React, Next.js, Node.js, NestJS, Azure, AWS, CI/CD, team lead"/>
 
 <a href="https://github.com/shivanjali24-03">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=780&lines=4%2B+years+building+React+products+from+scratch;HIPAA-compliant+healthcare+apps;CRM+%C2%B4+ERP+%C2%B4+Billing+%C2%B4+Custom+software;React+%C2%B4+Next.js+%C2%B4+Node.js+%C2%B4+NestJS+%C2%B4+Azure;Leading+teams+from+idea+to+production" alt="What I do"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=780&lines=4%2B+years+building+React+products+from+scratch;HIPAA-compliant+healthcare+apps;CRM+%C2%B7+ERP+%C2%B7+Billing+%C2%B7+Custom+software;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+NestJS+%C2%B7+Azure;Leading+teams+from+idea+to+production" alt="What I do"/>
 </a>
 
 <p>
