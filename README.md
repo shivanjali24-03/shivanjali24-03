@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Senior React & Full-Stack Developer, 7+ years: Healthcare (HIPAA), CRM, ERP, Billing. React, Next.js, Node.js, NestJS, Azure, AWS, CI/CD, team lead"/>
+<img src="./assets/hero.svg" width="100%" alt="Senior React & Full-Stack Developer, 4+ years: Healthcare (HIPAA), CRM, ERP, Billing. React, Next.js, Node.js, NestJS, Azure, AWS, CI/CD, team lead"/>
 
 <a href="https://github.com/shivanjali24-03">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=780&lines=7%2B+years+building+React+products+from+scratch;HIPAA-compliant+healthcare+apps;CRM+%C2%B7+ERP+%C2%B7+Billing+%C2%B7+Custom+software;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+NestJS+%C2%B7+Azure;Leading+teams+from+idea+to+production" alt="What I do"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=780&lines=4%2B+years+building+React+products+from+scratch;HIPAA-compliant+healthcare+apps;CRM+%C2%B4+ERP+%C2%B4+Billing+%C2%B4+Custom+software;React+%C2%B4+Next.js+%C2%B4+Node.js+%C2%B4+NestJS+%C2%B4+Azure;Leading+teams+from+idea+to+production" alt="What I do"/>
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Experience-7%2B%20years-a855f7?style=for-the-badge&labelColor=0b0726" alt="7+ years experience"/>
+  <img src="https://img.shields.io/badge/Experience-4%2B%20years-a855f7?style=for-the-badge&labelColor=0b0726" alt="4+ years experience"/>
   <img src="https://img.shields.io/badge/HIPAA-Compliant%20apps-22c55e?style=for-the-badge&labelColor=0b0726&logo=shield&logoColor=white" alt="HIPAA compliant apps"/>
   <img src="https://img.shields.io/badge/Role-Senior%20React%20%2F%20Full--Stack%20%C2%B7%20Lead-00b8d4?style=for-the-badge&labelColor=0b0726" alt="Senior React / Full-Stack, Lead"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20new%20roles-ff2bd6?style=for-the-badge&labelColor=0b0726" alt="Open to new roles"/>
@@ -21,7 +21,7 @@
 
 ## 👋 About me
 
-Hi, I'm **Shivanjali Desai**, a **senior React and full-stack developer** based in **Pune, India**, with **7+ years** of building business software, from an empty repo to a live, scaled product, and leading the teams that build it.
+Hi, I'm **Shivanjali Desai**, a **senior React and full-stack developer** based in **Pune, India**, with **4+ years** of building business software, from an empty repo to a live, scaled product, and leading the teams that build it.
 
 - ⚛️ **React first:** fast, polished, accessible UIs with **React**, **Next.js**, **TypeScript** and **Redux Toolkit**
 - ⚙️ **Full-stack:** secure APIs and databases with **Node.js**, **NestJS**, **Express**, **Flask**, **SQL Server**, **PostgreSQL** and **MongoDB**
@@ -323,10 +323,6 @@ I'm open to **Senior React Developer**, **Senior Full-Stack Developer** and **Fr
 
 <a href="https://github.com/shivanjali24-03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/shivanjali-desai-9521aa127/"><img src="https://img.shields.io/badge/LinkedIn-Shivanjali%20Desai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/License-MIT-a855f7?style=flat-square&labelColor=0b0726" alt="MIT License"/>
 
 </div>
 
